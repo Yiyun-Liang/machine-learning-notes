@@ -17,3 +17,6 @@ P = the probability that the program will win the next game.
 In general, any machine learning problem can be assigned to one of two broad classifications:
 
 [Supervised learning](https://github.com/Yiyun-Liang/machine-learning-notes/blob/master/supervised-learning.md) and [Unsupervised learning](https://github.com/Yiyun-Liang/machine-learning-notes/blob/master/unsupervised-learning.md).
+
+### Tools
+Octave for beginners.
