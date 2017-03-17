@@ -20,3 +20,7 @@ In general, any machine learning problem can be assigned to one of two broad cla
 
 ### Tools
 Octave for beginners.
+
+
+## Linear Regression
+- least square regression line -> squared error function (works well for regression problems)
